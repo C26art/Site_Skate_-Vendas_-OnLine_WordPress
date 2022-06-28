@@ -1,0 +1,8 @@
+2022-06-27T22:57:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ProjetoSkateClub\wordpress\wp-includes\class-wp-post-type.php, na linha 681
+
+2022-06-27T23:12:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ProjetoSkateClub\wordpress\wp-includes\Requests\Transport\cURL.php, na linha 165
+
+2022-06-27T23:14:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ProjetoSkateClub\wordpress\wp-includes\class-requests.php, na linha 145
+
+2022-06-27T23:14:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded, em C:\xampp\htdocs\ProjetoSkateClub\wordpress\wp-includes\class-requests.php, na linha 145
+
